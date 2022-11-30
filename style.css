@@ -1,0 +1,46 @@
+html,body{
+    text-align: center;
+    background: #569aff;
+}
+#h1{
+
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+}
+
+#inputfield{
+
+    height: 50px; 
+    width: 400px;
+    font-size: large;
+    margin-top: 30px;
+}
+
+#addbutton{
+
+    border: none;
+    background-color: red;
+    color: white;
+    height: 55px;
+    width: 110px;
+    cursor: pointer;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+#h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#taskcontainer{
+    color: rgb(251, 255, 0);
+    font-weight: bold;
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: disc;
+
+}
